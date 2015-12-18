@@ -2,12 +2,12 @@
   
 Note for jobs I want to apply at issues.  
   
-# Resume  
+# CV  
   
 * [LinkedIn](https://tw.linkedin.com/in/shunyi)  
-* [resume: Markdown version](resume.md)  
-* [resume: PDF version](resume.pdf)  
-* [resume: Web version](https://m157q.github.io/pages/resume)  
+* [Markdown version](cv.md)  
+* [PDF version](cv.pdf)  
+* [Web version](https://m157q.github.io/pages/cv)  
   
 # Contact  
   
