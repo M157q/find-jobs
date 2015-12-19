@@ -1,11 +1,7 @@
 #  [Shun-Yi Jheng](https://tw.linkedin.com/in/shunyi)  
   
-+ Previous  
-    1. Department of Computer Science, National Chiao Tung University  
-    2. OpenHouse, National Chiao Tung University  
-    3. Information Technology Service Center, National Chiao Tung University  
-+ Education  
-    1. [National Chiao Tung University](http://www.nctu.edu.tw)  
++ E-mail  
+    + M157q.tw@gmail.com  
 + Websites  
     1. [Blog](https://m157q.github.io)  
     2. [GitHub](https://github.com/M157q)  

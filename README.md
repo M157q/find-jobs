@@ -8,7 +8,3 @@ Note for jobs I want to apply at issues.
 * [Markdown version](cv.md)  
 * [PDF version](cv.pdf)  
 * [Web version](https://m157q.github.io/pages/cv)  
-  
-# Contact  
-  
-`M157q.tw@gmail.com`  
