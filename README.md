@@ -2,6 +2,16 @@
   
 Note for jobs I want to apply at issues.  
   
+---  
+  
+# Resume  
+  
+* [PDF version](resume.pdf)  
+* [ODT version](resume.odt)  
+* [DOC version](resume.doc)  
+  
+---  
+  
 # CV  
   
 * [LinkedIn](https://tw.linkedin.com/in/shunyi)  
