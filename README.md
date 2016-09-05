@@ -1,9 +1,3 @@
-# find-jobs  
-  
-Note for jobs I want to apply at [issues](https://github.com/M157q/find-jobs/issues).  
-  
----  
-  
 # Resume  
   
 * [PDF version](/resume/resume.pdf)  
@@ -18,3 +12,7 @@ Note for jobs I want to apply at [issues](https://github.com/M157q/find-jobs/iss
 * [Markdown version](/cv/cv.md)  
 * [PDF version](/cv/cv.pdf)  
 * [Web version](https://m157q.github.io/pages/cv)  
+  
+---  
+  
+Note for jobs I want to apply at [issues](https://github.com/M157q/find-jobs/issues).  
