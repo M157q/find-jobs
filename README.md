@@ -1,6 +1,6 @@
 # find-jobs  
   
-Note for jobs I want to apply at issues.  
+Note for jobs I want to apply at [issues](https://github.com/M157q/find-jobs/issues).  
   
 ---  
   
