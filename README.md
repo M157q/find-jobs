@@ -6,9 +6,9 @@ Note for jobs I want to apply at [issues](https://github.com/M157q/find-jobs/iss
   
 # Resume  
   
-* [PDF version](resume.pdf)  
-* [ODT version](resume.odt)  
-* [DOC version](resume.doc)  
+* [PDF version](/resume/resume.pdf)  
+* [ODT version](/resume/resume.odt)  
+* [DOC version](/resume/resume.doc)  
   
 ---  
   
