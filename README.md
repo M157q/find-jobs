@@ -6,7 +6,7 @@
   
 ---  
   
-# CV  
+# CV (Generated from LinkedIn)  
   
 * [LinkedIn](https://tw.linkedin.com/in/shunyi)  
 * [Markdown version](/cv/cv.md)  
