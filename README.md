@@ -15,6 +15,6 @@ Note for jobs I want to apply at [issues](https://github.com/M157q/find-jobs/iss
 # CV  
   
 * [LinkedIn](https://tw.linkedin.com/in/shunyi)  
-* [Markdown version](cv.md)  
-* [PDF version](cv.pdf)  
+* [Markdown version](/cv/cv.md)  
+* [PDF version](/cv/cv.pdf)  
 * [Web version](https://m157q.github.io/pages/cv)  
