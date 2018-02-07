@@ -27,13 +27,13 @@ Sometimes writing some small utilities for personal usage.
         + Dealing with China network to make current services work in China within 3 days. (using Alibaba Cloud)  
         + Zero downtime database migration.  
         + Improve the process of taking down the advertisement when customers' product been sold out to nearly realtime.  
-        + Add an auto deployment process of web-frontend assets to CDN for every active project.  
-        + Improve the process of collecting user tracking data which uses Google App Engine running with MapReduce and saved the data into Google BigQuery up to 33% faster.  
-        + Seperate services on one virtual machine to several API microservices running with Docker to avoid the single point of failure.  
-        + Reorganize the service architecture to make the data flow be unified and more easy to be traced when error happens.  
+        + Add an auto deployment of web frontend assets to CDN (~300 QPS at peak) for every project.  
+        + Improve the process of collecting user tracking data (about 12 millions pageviews per day) which uses Google App Engine with MapReduce to save the data into Google BigQuery up to 33% faster.  
+        + Seperate services on one virtual machine to several API microservices running with Docker and Kubernetes to avoid the single point of failure.  
+        + Reorganize the service architecture to make the data flow be unified and more easy to be traced when error happens (combined with Stackdriver monitoring).  
         + Help colleagues (engineer and non-engineer) solve problems and make one know what the other is talking about.  
         + Draw a picture of all web services and let other engineer colleagues know the purpose of these services, the relations between them and the code repository each one used.  
-        + [Fixed the bug of travis-ci/dpl (written in Ruby) to make it able to deploy to Google App Engine again.](https://github.com/travis-ci/dpl/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclose+author%3AM157q)  
+        + [Fixed bugs of travis-ci/dpl (written in Ruby) to make it able to deploy to Google App Engine again.](https://github.com/travis-ci/dpl/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclose+author%3AM157q)  
         + Tech Stacks: Python: [Django, Flask, webapp2], Google Cloud Platform: [Google App Engine (Standard + Flexible, Python), Google Container Engine, Google Compute Engine, BigQuery, CloudSQL(MySQL), Memcache, Blobstore, Datastore, Google Cloud Storage, Stackdriver], Docker, Kubernetes, Travis CI, Git, GitHub, Trello, Slack, CloudFlare, JavaScript.  
 + System Administrator  
     + Department of Computer Science, National Chiao Tung University, Hsinchu County/City, Taiwan  
